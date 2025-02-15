@@ -11,4 +11,3 @@ Fuchsia
 Purple
 Brown
 Red
-Sky Blue
